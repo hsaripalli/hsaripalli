@@ -8,4 +8,6 @@
 
 - 📫 How to reach me: hari.saripalli@queensu.ca
 
+- :orange_book: My projects are available at: https://github.com/hsaripalli
+
 
