@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on building my skills in R and Python
+- 🔭 I’m currently working on building my data science and ML skills in R and Python
 
 - 🌱 I’m currently learning nueural networks and deep learning through https://www.deeplearning.ai/
 
